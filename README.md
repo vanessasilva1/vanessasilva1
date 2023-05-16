@@ -1,6 +1,6 @@
 ### Oiii, pessoal! Sejam bem-vindos!!! 👋
 
-- ⚠️ **Meu Portfólio:** https://portfolio-eacgqijyt-vanessasilva1.vercel.app/
+- ⚠️ **Meu Portfólio:** https://portfolio-rho-blond-57.vercel.app/
 
 - 😊 Me chamo Vanessa, é um prazer conhecê-los!
 - 💻  Sou estudante de Análise e Desenvolvimento de Sistemas;
@@ -28,5 +28,5 @@
 
 ##
 
-**Portfólio:** https://portfolio-eacgqijyt-vanessasilva1.vercel.app/
+**Portfólio:** https://portfolio-rho-blond-57.vercel.app/
 
