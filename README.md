@@ -28,5 +28,5 @@
 
 ##
 
-**Portfólio:** <https://portfolio-eacgqijyt-vanessasilva1.vercel.app/ target="_blank">
+**Portfólio:** https://portfolio-eacgqijyt-vanessasilva1.vercel.app/
 
