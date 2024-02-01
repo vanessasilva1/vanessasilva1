@@ -3,7 +3,7 @@
 - ⚠️ **Meu Portfólio:** https://portfolio-rho-blond-57.vercel.app/
 
 - 😊 Me chamo Vanessa, é um prazer conhecê-los!
-- 💻  Sou estudante de Análise e Desenvolvimento de Sistemas;
+- 💻 Análise e Desenvolvimento de Sistemas;
 - 📚 Estudando para ser dev;
 - ❤️ Amo séries e livros;
 - 🎶 Apaixonada por tocar;
